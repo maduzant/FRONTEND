@@ -1,0 +1,14 @@
+{
+  "count" : 1,
+  "harga" : 40000,
+  "id" : 1,
+  "img" : "img/rendang.jpg",
+  "inCart" : false,
+  "info" : "Rendang adalah masakan yang mengandung bumbu rempah yang kaya. Selain bahan dasar daging, rendang menggunakan santan kelapa (karambia), dan campuran dari berbagai bumbu khas yang dihaluskan di antaranya cabai (lado), serai, lengkuas, kunyit, jahe, bawang putih, bawang merah dan aneka bumbu lainnya yang biasanya disebut sebagai pemasak.",
+  "ket" : {
+    "asal" : "indonesia",
+    "tipe" : "makanan"
+  },
+  "nama" : "rendang",
+  "total" : 0
+}
